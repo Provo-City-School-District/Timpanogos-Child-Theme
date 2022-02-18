@@ -14,7 +14,7 @@
 						<ul>
 							<li class="int"><a href="https://timpanogos.provo.edu/title-i/what-is-title-i/">What is Title I?</a></li>
 							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2019/12/19-20-Needs-Assessment.pdf">Needs Assessment</a></li>
-							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2020/12/Timpanogos-Elementary-School-School-Improvement-Plan-2020-21.pdf">School Improvement Plan</a></li>
+							<li class="pdf"><a href="https://timpanogos.provo.edu/wp-content/uploads/2022/02/Timpanogos-Elementary-School-Improvement-Plan-FY22.pdf">School Improvement Plan</a></li>
 						</ul>
 						<p>Title I Coordinator: Kate Pace (KateP@provo.edu)</p>
 				</div>
